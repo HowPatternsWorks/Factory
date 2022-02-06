@@ -1,4 +1,4 @@
-# **Factory **
+# **Factory**
 
 ## Links:
 - https://www.patterns.dev/posts/factory-pattern
